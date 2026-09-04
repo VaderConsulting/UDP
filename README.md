@@ -17,6 +17,10 @@ Sibling Historical Dev repo [Tracing](https://github.com/VaderConsulting/Tracing
 
 Open `UDP.sln` in Visual Studio 2008 (solution format 10.00). Both projects target .NET Framework 3.5.
 
+## Requirements
+
+- Visual Studio 2008, .NET Framework 3.5
+
 ## Attribution and provenance
 
 Working copy from Dave Robinson's OneDrive Historical Dev folder `UDP`. `AssemblyCompany` / `AssemblyCopyright` are Microsoft 2010, the Visual Studio 2008 project template default, not Microsoft-owned sample code.
