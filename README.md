@@ -23,7 +23,7 @@ Open `UDP.sln` in Visual Studio 2008 (solution format 10.00). Both projects targ
 
 ## Attribution and provenance
 
-Working copy from Dave Robinson's OneDrive Historical Dev folder `UDP`. `AssemblyCompany` / `AssemblyCopyright` are Microsoft 2010, the Visual Studio 2008 project template default, not Microsoft-owned sample code.
+Working copy from my Historical Dev folder `UDP`. `AssemblyCompany` / `AssemblyCopyright` are Microsoft 2010, the Visual Studio 2008 project template default, not Microsoft-owned sample code.
 
 ## License
 
